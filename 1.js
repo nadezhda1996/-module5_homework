@@ -1,4 +1,4 @@
-let number = +prompt("Введите число")
+let number = +prompt("Введите число");
 if (isNaN(number)){
     console.log("Упс, кажется, вы ошиблись");
 } else {
