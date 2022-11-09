@@ -1,2 +1,2 @@
 let reversed = "Hello";
-console.log(reversed.split("").reverse().join(""))
+console.log(reversed.split("").reverse().join(""));
