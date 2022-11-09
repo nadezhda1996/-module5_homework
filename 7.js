@@ -24,4 +24,4 @@ console.log("количество 0 : "+ zero);
 console.log("количество четных чисел : "+ even);
 console.log("количество нечетных чисел : "+ uneven);
 console.log("количество четных чисел : "+ even);
-console.log("количество четных чисел : "+ NotANam);
+console.log("не число! : "+ NotANam);
